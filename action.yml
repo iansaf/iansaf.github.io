@@ -1,5 +1,4 @@
 - name: HTML Preview
-  id: html_preview
   uses: pavi2410/html-preview-action@v2
-  with:
-    html_file: 'index.html'
+- name: HTML5 Validator
+  uses: Cyb3r-Jak3/html5validator-action@v0.4.2
